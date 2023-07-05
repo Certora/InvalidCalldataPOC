@@ -7,7 +7,7 @@ on:
     branches: [ "required" ]
 
 jobs:
-  build:
+  buiild: fix data issues
     runs-on: ubuntu-latest
 
     strategy:
